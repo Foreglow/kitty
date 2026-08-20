@@ -7,9 +7,9 @@
    cp foreglow.conf ~/.config/kitty/foreglow.conf
    ```
 
-2. Add the include to your `kitty.conf`:
+2. Add the include to your `kitty.conf` (i.e. ~/.config/kitty/kitty.conf):
    ```conf
    include foreglow.conf
    ```
 
-3. Restart Kitty.
+3. Restart Kitty if needed.
